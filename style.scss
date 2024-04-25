@@ -1,0 +1,98 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(165, 162, 162);
+}
+
+.container{
+    .bacground-card{
+        width: 817.78px;
+        height: 516.44px;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        border-radius: 35px;
+        background-color: #fff;
+        display: flex;
+        .text-centr{
+            width: 409px;
+            height: 516.44px;
+            text-align: center;
+            margin-top: 4rem;
+            .mini-card-all{
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+                .min-card{
+                    border: 0.5px solid #CCCCCC;
+                    height:38.57px;
+                    width:38.57px;
+                    border-radius: 8px;
+                    margin-left: 9px;
+                }
+            }
+            .P1{
+                font-size: 12px;
+                margin-top: 12px;
+            }
+            .input-group{
+                margin-left: 50px;
+                input{
+                    text-align: center;
+                    width: 321px;
+                    height: 41px;
+                    border: none;
+                    border-radius: 8px;
+                    background-color: #EEEEEE;
+                    margin-top: 18px;
+                }
+            }
+            .P2{
+                font-style: 15px;
+                margin-top: 10px;
+            }
+            button{
+                border: none;
+                background-color: #1F1F1F;
+                width: 153.78px;
+                height: 40px;
+                color: #fff;
+                border-radius: 8.89px;
+                margin-top: 17px;
+            }
+        }
+        .oreng-card{
+            background-color: #FFB053;
+            width: 409px;
+            height: 516.44px;
+            text-align: center;
+            border-radius: 113px 35px 35px 113px;
+            .text1{
+                margin-top: 9rem;
+                a{
+                    b{
+                        font-size: 30px;
+                        color: #fff;
+                        margin-top: 370px;
+                    }
+                }
+            }
+            .text2{
+                color: #fff;
+                font-style: 15px;
+                margin-top: 40px;
+            }
+            button{
+                border: 3px solid;
+                width: 153.78px;
+                height: 40px;
+                background-color: #FF9200;
+                color: #fff;
+                border-radius: 8.89px;
+                margin-top: 30px;
+            }
+        }
+    }
+}
