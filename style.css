@@ -93,5 +93,81 @@ body {
   border-radius: 8.89px;
   margin-top: 30px;
 }
+.container .bacground-card .oreng-card-bac {
+  background-color: #FFB053;
+  width: 409px;
+  height: 516.44px;
+  text-align: center;
+  border-radius: 35px 113px 113px 35px;
+}
+.container .bacground-card .oreng-card-bac .text1 {
+  margin-top: 9rem;
+}
+.container .bacground-card .oreng-card-bac .text1 a b {
+  font-size: 30px;
+  color: #fff;
+  margin-top: 370px;
+}
+.container .bacground-card .oreng-card-bac .text2 {
+  color: #fff;
+  font-style: 15px;
+  margin-top: 40px;
+}
+.container .bacground-card .oreng-card-bac button {
+  border: 3px solid;
+  width: 153.78px;
+  height: 40px;
+  background-color: #FF9200;
+  color: #fff;
+  border-radius: 8.89px;
+  margin-top: 30px;
+}
+.container .bacground-card .text-centr-bac {
+  width: 409px;
+  height: 516.44px;
+  text-align: center;
+  margin-top: 4rem;
+}
+.container .bacground-card .text-centr-bac .mini-card-all {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.container .bacground-card .text-centr-bac .mini-card-all .min-card {
+  border: 0.5px solid #CCCCCC;
+  height: 38.57px;
+  width: 38.57px;
+  border-radius: 8px;
+  margin-left: 9px;
+}
+.container .bacground-card .text-centr-bac .P1 {
+  font-size: 12px;
+  margin-top: 12px;
+}
+.container .bacground-card .text-centr-bac .input-group {
+  margin-left: 50px;
+}
+.container .bacground-card .text-centr-bac .input-group input {
+  text-align: center;
+  width: 321px;
+  height: 41px;
+  border: none;
+  border-radius: 8px;
+  background-color: #EEEEEE;
+  margin-top: 18px;
+}
+.container .bacground-card .text-centr-bac .P2 {
+  font-style: 15px;
+  margin-top: 10px;
+}
+.container .bacground-card .text-centr-bac button {
+  border: none;
+  background-color: #1F1F1F;
+  width: 153.78px;
+  height: 40px;
+  color: #fff;
+  border-radius: 8.89px;
+  margin-top: 5px;
+}
 
 /*# sourceMappingURL=style.css.map */
